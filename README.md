@@ -9,4 +9,4 @@ The code preprocesses the dataset, splits it into training and testing sets, tra
 Requires pandas and scikit-learn.Replace df with your dataset's variable name. Ensure the dataset has features and a target column named 'Type' and Prints the accuracy of the trained model on the test set and provides a classification report showing precision, recall, F1-score, and support for each class.
 
 
-### Video Link:
+### Video Link: https://drive.google.com/file/d/1N9TmCoajMRceTrNz4ZyOZrEexl4U5FGd/view?usp=sharing
